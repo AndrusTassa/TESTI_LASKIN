@@ -1,0 +1,33 @@
+body {
+    background-color: bisque;
+    font-family: Arial, sans-serif;
+    padding: 20px;
+  }
+  
+  #otsikko {
+    color: rgb(0, 0, 0);
+    border: 2px solid black;
+    width: 553px;
+    border-radius: 10px;
+  }
+
+  #inputNumber[type="number"] {
+    padding: 5px;
+    margin-right: 10px;
+    border-radius: 10px;
+  }
+  
+  #nappi {
+    border-radius: 10px;
+    padding: 5px 10px;
+    background-color: #ffffff;
+    color: rgb(0, 0, 0);
+    border: 2px solid black;
+    cursor: pointer;
+  }
+  
+  #resultLabel {
+    margin-top: 10px;
+    display: block;
+  }
+  
